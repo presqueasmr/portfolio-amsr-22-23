@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Markdown Syntax Guide"
-date = "2019-03-11"
+date = "2022-01-22"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
@@ -79,7 +79,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
 ```html
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="utf-8">
   <title>Example HTML5 Document</title>
@@ -93,7 +93,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 #### Code block indented with four spaces
 
     <!doctype html>
-    <html lang="en">
+    <html lang="fr">
     <head>
       <meta charset="utf-8">
       <title>Example HTML5 Document</title>
@@ -106,7 +106,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 #### Code block with Hugo's internal highlight shortcode
 {{< highlight html >}}
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="utf-8">
   <title>Example HTML5 Document</title>
