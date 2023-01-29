@@ -19,7 +19,7 @@ links:
 image: the-creative-exchange-d2zvqp3fpro-unsplash.jpg
 ---
 
-Tout premier projet de développement front. En groupe de 5 nous avions 3 semaines pour designer et produire une refonte de 2 pages du site du cinéma [Le Festival](http://www.cinemalefestival.fr/). Nous avons produit la page d'accueil et description de film en statique et responsive. Pour ma part, je me suis penchée plus particulièrement sur la partie développement. 
+Tout premier projet de développement front. En groupe de 5, nous avions 3 semaines pour designer et produire une refonte de 2 pages du site du cinéma [Le Festival](http://www.cinemalefestival.fr/). Nous avons produit la page d'accueil et description de film en statique et responsive. Pour ma part, je me suis penchée plus particulièrement sur la partie développement. 
 
 Technologies & outils utilisées :
 
