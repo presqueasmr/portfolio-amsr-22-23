@@ -1,13 +1,26 @@
 +++
 author = "auri_siraza"
 title = "Au Bord des Rues"
-date = "2022-01-22"
+date = "2022-03-04"
 description = "Projet en 2 semaines centré sur le développement d'un blog en PHP."
 categories = [
-    "Développement"
+    "Développement",
+    "Design web & produit"
 ]
 image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 +++
+---
+links:
+  - title: GitHub
+    description: Lien vers le repository Github de l'équipe Nebulab(groupe travail) - Blog'Art .
+    website: https://github.com/Refonte-Accord-Arena/BlogArt_B04
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: TypeScript
+    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+    website: https://www.typescriptlang.org
+    image: ts-logo-128.jpg
+
+---
 
 Je suis français
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
