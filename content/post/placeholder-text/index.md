@@ -1,16 +1,10 @@
 +++
-author = "Hugo Authors"
-title = "Placeholder Text"
+author = "auri_siraza"
+title = "Au Bord des Rues"
 date = "2022-01-22"
-description = "Lorem Ipsum Dolor Si Amet"
+description = "Projet en 2 semaines centré sur le développement d'un blog en PHP."
 categories = [
-    "Test",
-    "Test with whitespaces"
-]
-tags = [
-    "markdown",
-    "text",
-    "tag with whitespaces"
+    "Développement"
 ]
 image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 +++

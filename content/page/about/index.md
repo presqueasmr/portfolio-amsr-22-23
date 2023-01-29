@@ -1,12 +1,10 @@
 ---
 title: A propos
-description: Hugo, the world's fastest framework for building websites
-date: '2022-01-22'
+description: Mon objectif apprendre tous les jours à mieux créer sur le web. 
+date: '2023-01-22'
 aliases:
-  - about-us
-  - about-hugo
+  - about-me
   - contact
-license: CC BY-NC-ND
 lastmod: '2020-10-09'
 menu:
     main: 
@@ -15,20 +13,27 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+**J'espère que mon travail vous plaît pour l'instant !**
 
-Hugo makes use of a variety of open source projects including:
+Comme vous le savez peut-être je m'appelle Auriane-Mirana SICARD-RAZAKA (je suis métisse malgache d'où le nom à ralonge :')).
+Depuis 2021, je vadrouille entre Bordeaux et Lyon, pour étudier à l'IUT Bordeaux Montaigne en MMI (Métiers du Multimédia et de l'Internet). Cette année mon but ultime est de décrocher un **stage du 17 avril au 30 juin** et possiblement une **alternance** pour l'année 2023-2024. 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+[Téléchargez mon CV](CV.pdf)
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Mise à part ma passion pour la création digitale, je suis avant tout une farouche enthousiaste de la **création en tout genre** (musique, dessin, cinéma, jeux vidéo...)
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+-LINK PROJET AVEC ETIQUETTE AUTRES- / Article classant toutes catégories mes trucs préférés
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+**N'hésitez pas à me contacter  :**
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* Email : auriane1103@gmail.com
+* LinkedIn : https://www.linkedin.com/in/auriane-mirana-sicard-razaka-8a925a175/
+
+**Ou à voir mes projets sur :**
+
+* Behance : https://www.behance.net/aurianesicard
+* Github : https://github.com/presqueasmr
+* (Ancien portfolio : )
+
+
+
