@@ -1,9 +1,8 @@
-
 ---
 title: Au Bord des Rues
 author: auri_siraza
 date: 2022-03-04
-description: Projet en 2 semaines centré sur le développement d'un blog en PHP.
+description: Projet en 3 semaines centré sur le développement d'un blog en PHP.
 categories:
   - Développement
   - Design web & produit
