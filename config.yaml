@@ -7,14 +7,14 @@ title: Portfolio - Auriane-Mirana
 languages:
     fr:
         languageName: Français
-        title: Portfolio - Auriane-Mirana
+        title: Portfolio Auriane-Mirana
         description: Portfolio de Auri V1
         weight: 1
     en:
         languageName: English
-        title: Portfolio - Auriane-Mirana
+        title: Portfolio Auriane-Mirana
         description: Auri's portfolio V1
-        weight: 2
+        weight: 1
     
   
 
@@ -118,7 +118,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/presqueasmr
           params:
               icon: brand-github
 
