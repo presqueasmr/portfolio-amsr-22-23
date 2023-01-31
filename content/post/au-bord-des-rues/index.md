@@ -6,6 +6,7 @@ description: Projet en 3 semaines centré sur le développement d'un blog en PHP
 categories:
   - Développement
   - Design web & produit
+  - Rédaction web
 links:
   - title: GitHub
     description: Lien vers le repository Github de l'équipe Nebulab (groupe travail) - Blog'Art .
@@ -16,7 +17,7 @@ links:
     website: https://www.behance.net/gallery/138990515/Au-bord-des-rues
     image: behance-2-logo.png
 
-image: matt-le-SJSpo9hQf7s-unsplash.jpg
+image: header-au-bord-des-rues.png
 ---
 
 **Au Bord des Rues** est un projet de création de blog *from scratch* et **rédaction web** sur le sujet de la solidarité à Bordeaux. 

@@ -12,6 +12,7 @@ links:
     website: https://www.behance.net/gallery/136309521/ECONOMIE-DU-NUMERIQUE
     image: behance-2-logo.png
 
+image: header-yooji.png
 ---
 
 ## Objectifs

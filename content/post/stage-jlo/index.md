@@ -13,6 +13,7 @@ links:
     website: https://www.groupe-jlo.com/
     image: th.jpg
 
+image: jlo.png
 ---
 
 

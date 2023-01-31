@@ -9,9 +9,9 @@ links:
   - title: Behance
     description: Projet sur behance
     website: https://www.behance.net/gallery/157376699/WEBIKE
-    image: behance-2-logo.png
+    image: https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png
 
-image: pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg
+image: header-webike.png
 ---
 
 ## Objectifs

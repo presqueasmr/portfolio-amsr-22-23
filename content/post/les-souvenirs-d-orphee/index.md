@@ -5,12 +5,14 @@ date: 2022-12-01
 slug: les-souvenirs-d-orphee
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - Illustrations & Graphisme
+    - Illustration & Graphisme
 links:
   - title: Les souvenirs d'Orphée
     description: Lien vers la fiche et le téléchargement du jeu.
     website: https://souvenirsdorphee.netlify.app/
     image: UnityLogo.webp
+
+image: header-game.png
 ---
 
 ## Objectif
