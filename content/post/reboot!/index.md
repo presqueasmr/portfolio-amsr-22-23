@@ -1,7 +1,7 @@
 ---
 title: 'Greener_ : un projet hackathon Reboot!'
 author: auri_siraza
-date: 2022-01-28
+date: 2022-11-17
 description: Projet de hackathon ayant reçu les mentions honorables du hackathon Reboot!
 slug: greener-reboot
 categories:
@@ -12,7 +12,10 @@ links:
     description: Lien vers le projet
     website: https://ecoconception.mmibordeaux.com/
     image: logo-greener.svg
-
+  - title: Reboot! - 2022
+    description: Accès au site officiel
+    website: https://www.rebootcommunication.org/reboot-2022/hackathon/
+    image: logo-reboot!.svg
 image: header-greener.png
 ---
 

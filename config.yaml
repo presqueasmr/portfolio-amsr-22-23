@@ -68,7 +68,7 @@ params:
         toc: false
         readingTime: true
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     
@@ -80,7 +80,7 @@ params:
                   limit: 5
             - type: categories
               params:
-                  limit: 10
+                  limit: 4
 
     opengraph:
         twitter:
