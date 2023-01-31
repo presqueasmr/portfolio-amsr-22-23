@@ -122,11 +122,16 @@ menu:
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://www.linkedin.com/in/auriane-mirana-sicard-razaka-8a925a175/
           params:
-              icon: brand-twitter
+              icon: brand-linkedin
+        - identifier: behance
+          name: Behance
+          url: https://www.behance.net/aurianesicard
+          params:
+              icon: brand-behance
 
 related:
     includeNewer: true
