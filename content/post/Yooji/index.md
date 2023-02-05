@@ -17,7 +17,7 @@ image: header-yooji.png
 
 ## Objectifs
 
-Par groupes de 5 nous nous sommes organisé pour deux rendus, deux infographies. Je me suis chargée avec une autre étudiante du design de l'infographie (charte graphique, agencement...) et des illustrations. Le but était de synthétiser nos recherches sur la start-up et de rendre un pitch visuel attrayant, dans le but de convaincre des investisseurs.
+Par **groupes de 5** nous nous sommes organisés pour deux rendus, deux infographies. Je me suis chargée avec une autre étudiante du **design de l'infographie** (charte graphique, agencement...), des **illustrations** et des **recherches**. Le but était de synthétiser nos recherches sur la start-up et de rendre un **pitch visuel attrayant**, dans le but de convaincre des investisseurs.
 
 ## Outils utilisés
 

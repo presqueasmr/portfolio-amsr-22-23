@@ -1,6 +1,6 @@
 ---
 title: About
-description: Mon objectif apprendre tous les jours à mieux créer sur le web. 
+description: My objective is to learn new ways to create on the internetevery day. 
 date: '2023-01-22'
 lastmod: '2020-10-09'
 aliases:

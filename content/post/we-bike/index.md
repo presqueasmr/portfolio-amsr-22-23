@@ -16,7 +16,7 @@ image: header-webike.png
 
 ## Objectifs
 
-Projet de 2 semaines concentrées exclusivement sur le maquettage et prototypage de l'application V3 (vélos en libre service) de Bordeaux. Nous étions en équipes de 5. La première semaine était dédiée au design UX de l'application (interview besoins utilisateurs, SWOT, benchmark, arborescence fonctionnelle...). La deuxième semaine était consacré à l'UI (charte graphique, choix esthétiques, accessibilité visuelle...).
+Projet de **2 semaines** concentré exclusivement sur le **maquettage** et **prototypage** de l'application V3 (vélos en libre service) de Bordeaux. Nous étions en **équipes de 5**. La première semaine était dédiée au **design UX de l'application**(interview besoins utilisateurs, SWOT, benchmark, arborescence fonctionnelle...). La deuxième semaine était consacré à l'**UI** (charte graphique, choix esthétiques, accessibilité visuelle...).
 
 
 ### Les technologies et outils utilisés :

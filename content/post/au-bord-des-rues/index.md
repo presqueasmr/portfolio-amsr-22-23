@@ -21,7 +21,7 @@ image: header-au-bord-des-rues.png
 ---
 
 **Au Bord des Rues** est un projet de création de blog *from scratch* et **rédaction web** sur le sujet de la solidarité à Bordeaux. 
-J'ai participé à l'écriture d'un **article**, au **développement back-end** en PHP avec une base de donnée SQL et au **design**. Nous étions 5 dans l'équipe Nébulab
+J'ai participé à l'écriture d'un **article**, au **développement back-end** en PHP avec une base de donnée SQL et au **design**. Nous étions 5 dans l'équipe Nébulab.
 
 **Technologies et outils utilisés :**
   
