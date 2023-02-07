@@ -16,7 +16,7 @@ links:
     website: https://www.behance.net/gallery/138373095/Motion-design
     image: behance-2-logo.png
 
-image: motion-design-header.png
+image: motion-design-header.webp
 ---
 
 ## Objectives

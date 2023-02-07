@@ -4,7 +4,7 @@ author: auri_siraza
 date: 2022-03-04
 description: 3 weeks project focusing on the development of a blog in PHP
 categories:
-  - Developpment
+  - Development
   - Product & web design
   - Web writing
 links:
@@ -17,7 +17,7 @@ links:
     website: https://www.behance.net/gallery/138990515/Au-bord-des-rues
     image: behance-2-logo.png
 
-image: header-au-bord-des-rues.png
+image: header-au-bord-des-rues.webp
 ---
 
 **Au Bord des Rues** is a blog **development** and **web writing** project about solidarity in Bordeaux. 

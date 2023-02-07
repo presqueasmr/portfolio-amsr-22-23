@@ -5,20 +5,20 @@ date: 2022-04-15
 description: First website to raise awareness about endometriosis among girls aged 9 to 16.
 slug: bouillotte-et-culotte
 categories:
-  - Developpment
+  - Development
   - Product & web design
   - Web writing
 links:
   - title: Bouillotte & Culotte
-    description: Link o the project
+    description: Link to the project
     website: https://www.bouillotteetculotte.fr/
     image: logo-bouillotte-culotte.svg
   - title: Github
-    description:Link to the repository
+    description: Link to the repository
     website: https://github.com/mthibaultweb/BouillotteEtCulotte
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
                     
-image: bouillotte-culotte.png
+image: bouillotte-culotte.webp
 ---
 
 ## Objectives

@@ -18,7 +18,7 @@ links:
     website: https://github.com/mthibaultweb/BouillotteEtCulotte
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
                     
-image: bouillotte-culotte.png
+image: bouillotte-culotte.webp
 ---
 
 ## Objectifs

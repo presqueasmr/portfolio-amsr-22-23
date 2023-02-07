@@ -12,7 +12,7 @@ links:
     website: https://souvenirsdorphee.netlify.app/
     image: UnityLogo.webp
 
-image: header-game.png
+image: header-game.webp
 ---
 
 ## Objectif

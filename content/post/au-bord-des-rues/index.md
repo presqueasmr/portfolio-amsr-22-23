@@ -17,7 +17,7 @@ links:
     website: https://www.behance.net/gallery/138990515/Au-bord-des-rues
     image: behance-2-logo.png
 
-image: header-au-bord-des-rues.png
+image: header-au-bord-des-rues.webp
 ---
 
 **Au Bord des Rues** est un projet de création de blog *from scratch* et **rédaction web** sur le sujet de la solidarité à Bordeaux. 
