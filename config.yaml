@@ -120,18 +120,17 @@ menu:
           name: GitHub
           url: https://github.com/presqueasmr
           params:
-              icon: assets/brand-github
-
+              icon: brand-github
         - identifier: linkedin
           name: LinkedIn
           url: https://www.linkedin.com/in/auriane-mirana-sicard-razaka-8a925a175/
           params:
-              icon: assets/brand-linkedin
+              icon: brand-linkedin
         - identifier: behance
           name: Behance
           url: https://www.behance.net/aurianesicard
           params:
-              icon: assets/brand-behance
+              icon: brand-behance
 
 related:
     includeNewer: true
